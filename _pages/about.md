@@ -22,30 +22,10 @@ You can find my Github Site here: [LincanLi](https://github.com/LincanLi98)
 **Background**
 ---
 - Researcher at University of New South Wales (Nov 2023 - Dec 2024)
-- MPhil at Zhejiang University (in the State Key Lab) & Exchange Student at The University of Sydney
+- MPhil at Zhejiang University & Exchange Student at The University of Sydney
 - Bachelor at Northeastern University
 
 -----
-
-Academic Internship/Exchange at World Leading Institutions
-------
-<table>
-  <tr>
-    <th>Internship Experience</th>
-    <th>Timeline</th>
-    <th>Region</th>
-  </tr>
-  <tr>
-    <td>Master Exchange Program at University of Sydney</td>
-    <td>Sep 2022 - Sep 2023</td>
-    <td>Sydney, Australia</td>
-  </tr>
-  <tr>
-    <td>International Exchange Student at University of Wisconsin-Madison</td>
-    <td>Jun 2019 - Sep 2019</td>
-    <td>U.S.A</td>
-  </tr>
-</table>
 
 
 2024 Latest👍
@@ -91,8 +71,30 @@ Conference on Systems, Man, and Cybernetics (SMC 2022), pp. 2557-2562. [Oral]
 Academic Awards & Competitions
 ------
 1. **Excellent Master Dissertation Award (Top 1%)**, "Research on Integrated Urban Traffic Forecasting and Spatiotemporal Data Imputation based on GANs and Graph Representation".
-2. National Scholarship for Undergraduate Student. Awarded by Ministry of Education, Awarded in 2019 and 2020, respectively. (For Top 1\% excellent students).
+2. National Scholarship for Undergraduate Student. Awarded by Ministry of Education, Awarded in 2019 and 2020, respectively. (For Top 1% excellent students).
 4. Meritorious Winner (First Prize) of the International Interdisciplinary Contest In Mathematical Modeling (ICM). Awarded in April, 2019.
+
+
+
+Academic Internship/Exchange at World Leading Institutions
+------
+<table>
+  <tr>
+    <th>Internship Experience</th>
+    <th>Timeline</th>
+    <th>Region</th>
+  </tr>
+  <tr>
+    <td>Master Exchange Program at University of Sydney</td>
+    <td>Sep 2022 - Sep 2023</td>
+    <td>Sydney, Australia</td>
+  </tr>
+  <tr>
+    <td>International Exchange Student at University of Wisconsin-Madison</td>
+    <td>Jun 2019 - Sep 2019</td>
+    <td>U.S.A</td>
+  </tr>
+</table>
 
 
 Academic Services
