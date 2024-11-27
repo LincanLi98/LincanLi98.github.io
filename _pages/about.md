@@ -21,11 +21,9 @@ You can find my Github Site here: [LincanLi](https://github.com/LincanLi98)
 
 **Background**
 ---
-Researcher at University of New South Wales (Nov 2023 - Dec 2024)
-
-MPhil at Zhejiang University (in the State Key Lab) & Exchange Student at The University of Sydney
-
-Bachelor at Northeastern University
+- Researcher at University of New South Wales (Nov 2023 - Dec 2024)
+- MPhil at Zhejiang University (in the State Key Lab) & Exchange Student at The University of Sydney
+- Bachelor at Northeastern University
 
 -----
 
@@ -72,7 +70,7 @@ Academic Internship/Exchange at World Leading Institutions
 
 **Paper**: [Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies](https://arxiv.org/abs/2401.12888)
 
-**Code**: https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving
+**Code**: [https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving](https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving)
 
 
 
