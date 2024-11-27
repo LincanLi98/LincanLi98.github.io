@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Tallahassee FL,U.S.A"
+locale                   : "Tallahassee FL, U.S."
 title                    : "Lincan Li/Personal Website"
 title_separator          : "-"
 name                     : &name "Lincan Li"
@@ -83,7 +83,7 @@ author:
   name             : "Lincan Li"
   avatar           : "profile.png"
   bio              : "Motivational & Persistent"
-  location         : "Tallahassee FL,U.S.A"
+  location         : "Tallahassee FL, U.S."
   employer         : "PhD Student at FSU"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "#"
