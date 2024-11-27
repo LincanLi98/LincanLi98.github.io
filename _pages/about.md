@@ -21,11 +21,11 @@ You can find my Github Site here: [LincanLi](https://github.com/LincanLi98)
 
 **Background**
 ---
-Researcher @ University of New South Wales (Nov 2023 ~ Dec 2024)
+Researcher at University of New South Wales (Nov 2023 - Dec 2024)
 
-MPhil @ Zhejiang University (in the State Key Lab) || Exchange Student at The University of Sydney
+MPhil at Zhejiang University (in the State Key Lab) & Exchange Student at The University of Sydney
 
-Bachelor @ Northeastern University
+Bachelor at Northeastern University
 
 -----
 
