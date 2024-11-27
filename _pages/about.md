@@ -23,7 +23,7 @@ You can find my Github Site here: [LincanLi](https://github.com/LincanLi98)
 ---
 Researcher @ University of New South Wales (Nov 2023 ~ Dec 2024)
 
-MPhil @ Zhejiang University (in the State Key Lab) | Exchange Student at The University of Sydney
+MPhil @ Zhejiang University (in the State Key Lab) || Exchange Student at The University of Sydney
 
 Bachelor @ Northeastern University
 
