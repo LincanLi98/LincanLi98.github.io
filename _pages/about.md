@@ -19,7 +19,9 @@ You can find my Github Site here: [LincanLi](https://github.com/LincanLi98)
 
 **Background**: 
 Researcher - University of New South Wales (Nov 2023 - Dec 2024)
+
 MPhil - Zhejiang University (in the State Key Lab) | Exchange Student at The University of Sydney
+
 Bachelor - Northeastern University
 
 
@@ -46,23 +48,23 @@ Academic Internship/Visiting Experiences at World Leading Institutions
 
 2024 Latest👍
 ======
-- (Nov 2024) Organize Committee of [FSU Student Seminar](https://cs-fsu.github.io/seminars.html)😆. Welcome everyone to participate in our inspiring seminar! If you're currently affiliated with FSU and wish to give a talk at the seminar, please fill in the [Google Form](https://forms.gle/BFRowrbqWwcapGbt8). If you are outside FSU and wish to give a talk, please contact me at <a href="ll24bb@fsu.edu">this email</a> or Dr. Yushun Dong at <a href="yushun.dong@fsu.edu">this email</a>. Thank you.
+> (Nov 2024) Organize Committee of [FSU Student Seminar](https://cs-fsu.github.io/seminars.html)😆. Welcome everyone to participate in our inspiring seminar! If you're currently affiliated with FSU and wish to give a talk at the seminar, please fill in the [Google Form](https://forms.gle/BFRowrbqWwcapGbt8). If you are outside FSU and wish to give a talk, please contact me at <a href="ll24bb@fsu.edu">this email</a> or Dr. Yushun Dong at <a href="yushun.dong@fsu.edu">this email</a>. Thank you.
 
-- (Oct/03/2024) Invited reviewer for AISTATS and ICASSP 2025😃. 
+> (Oct/03/2024) Invited reviewer for AISTATS & ICASSP 2025😃. 
 
-- (Sep/28/2024) Invited reviewer for ICRL 2025😃.
+> (Sep/28/2024) Invited reviewer for ICRL 2025😃.
 
-- (Jun/20/2024) Invited reviewer for NeurIPS 2025😃.
+> (Jun/20/2024) Invited reviewer for NeurIPS 2025😃.
 
-- (June/01/2024) A first-authored paper entitled "Di-GraphGAN: An Enhanced Adversarial Learning Framework for Accurate Spatial-Temporal Traffic Forecasting Under Data Missing Scenarios" is accepted by INFORMATION SCIENCES journal. 
+> (June/01/2024) A first-authored paper entitled "Di-GraphGAN: An Enhanced Adversarial Learning Framework for Accurate Spatial-Temporal Traffic Forecasting Under Data Missing Scenarios" is accepted by INFORMATION SCIENCES journal. 
 
-- (May/13/2024) Our new work leveraging Mamba, the latest deep learning-based selective state space model for Spatial-Temporal Graph Learning is now available.
+> (May/13/2024) Our new work leveraging Mamba, the latest deep learning-based selective state space model for Spatial-Temporal Graph Learning is now available.
 
   **Paper**: [STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model](https://github.com/LincanLi98/STG-Mamba/blob/main/STG_Mamba_paper_ArXiv_V3_14May2024.pdf)
   
   **Code**: [https://github.com/LincanLi98/STG-Mamba/](https://github.com/LincanLi98/STG-Mamba/)
   
-- (Jan/24/2024) Our New survey paper:[Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies](https://arxiv.org/abs/2401.12888) is available on ArXiV. It was reported by several major social media platforms, see the media report here. 
+> (Jan/30/2024) Our New survey paper:[Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies](https://arxiv.org/abs/2401.12888) is available on ArXiV. It was reported by several major social media platforms, see the <span style="color:darkred;">[media report here](https://mp.weixin.qq.com/s/YEjWSvKk6f-TDAR91Ow2rA).</span>
 
 **Paper**: [Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies](https://arxiv.org/abs/2401.12888)
 
