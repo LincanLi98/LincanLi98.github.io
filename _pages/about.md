@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+
+
 Short Bio
 ======
 Hi everyone. I'm currently a PhD student at [Responsible AI (RAI) Lab](https://yushundong.github.io//students/), [Department of Computer Science](https://www.cs.fsu.edu/), Florida State University. I feel very much fortunate to be advised by Dr. [Yushun Dong](https://scholar.google.com/citations?user=_QUhuOMAAAAJ&hl=EN). My research interests include Spatial-Temporal Data Mining, Graph Neural Networks, AI+X, LLMs & Foundation Models. In general, I'm always highly interested in broad machine-learning fields, application of heterogeneous data mining, and AI+X technologies. 
@@ -17,13 +19,15 @@ You can find my Github Site here: [LincanLi](https://github.com/LincanLi98)
 
 **Email Contact**: ll24bb@fsu.edu.au<br>
 
-**Background**: 
+Background
+---
 Researcher - University of New South Wales (Nov 2023 - Dec 2024)
 
 MPhil - Zhejiang University (in the State Key Lab) | Exchange Student at The University of Sydney
 
 Bachelor - Northeastern University
 
+---
 
 Academic Internship/Visiting Experiences at World Leading Institutions
 ------
