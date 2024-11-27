@@ -10,9 +10,7 @@ redirect_from:
 
 Short Bio
 ======
-Hi everyone. I'm currently a PhD student at Responsible AI (RAI) Lab (https://yushundong.github.io//students/), Department of Computer Science (https://www.cs.fsu.edu/), Florida State University. I feel very much fortunate to be advised by Dr. Yushun Dong. My research interests include Spatial-Temporal Data Mining, Graph Neural Networks, AI+X, LLMs & Foundation Models. In general, I'm always highly interested in broad machine-learning fields, application of heterogeneous data mining, and AI+X technologies. 
-
-As a motivational student who aim my future career in academia, I've worked with several scholars from different academic institutions. I want to specially mention the following people, including Associate Prof. Kaixiang Yang from South China University of Technology,  Associate Prof. Fengji Luo from The University of Sydney, Dr. Wei Shao from CSIRO Australia, prof. Mingyang Sun from Peking University. And my PhD advisor . All of them have strong foundation in research, and at the same time, very very good personality. If you're currently seeking for PhD opportunities, and aim these institutions as your potential school, it is recommended to contact them. 
+Hi everyone. I'm currently a PhD student at [Responsible AI (RAI) Lab](https://yushundong.github.io//students/), [Department of Computer Science](https://www.cs.fsu.edu/), Florida State University. I feel very much fortunate to be advised by Dr. [Yushun Dong](https://scholar.google.com/citations?user=_QUhuOMAAAAJ&hl=EN). My research interests include Spatial-Temporal Data Mining, Graph Neural Networks, AI+X, LLMs & Foundation Models. In general, I'm always highly interested in broad machine-learning fields, application of heterogeneous data mining, and AI+X technologies. 
 
 
 You can find my Github Site here: [LincanLi](https://github.com/LincanLi98)
@@ -48,7 +46,7 @@ Academic Internship/Visiting Experiences at World Leading Institutions
 
 2024 Latest👍
 ======
-- (Nov 2024) Organize Committee of FSU Student Seminar😆. Welcome everyone to participate in our inspiring seminar! If you're currently affiliated with FSU and wish to give a talk at the seminar, please fill in the [Google Form](https://forms.gle/BFRowrbqWwcapGbt8). If you are outside FSU and wish to give a talk, please contact me at <a href="ll24bb@fsu.edu">this email</a> or Dr. Yushun Dong at <a href="yushun.dong@fsu.edu">this email</a>. Thank you.
+- (Nov 2024) Organize Committee of [FSU Student Seminar](https://cs-fsu.github.io/seminars.html)😆. Welcome everyone to participate in our inspiring seminar! If you're currently affiliated with FSU and wish to give a talk at the seminar, please fill in the [Google Form](https://forms.gle/BFRowrbqWwcapGbt8). If you are outside FSU and wish to give a talk, please contact me at <a href="ll24bb@fsu.edu">this email</a> or Dr. Yushun Dong at <a href="yushun.dong@fsu.edu">this email</a>. Thank you.
 
 - (Oct/03/2024) Invited reviewer for AISTATS and ICASSP 2025😃. 
 
