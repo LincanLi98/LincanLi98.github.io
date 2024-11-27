@@ -17,7 +17,7 @@ Hi everyone. I'm currently a PhD student at [Responsible AI (RAI) Lab](https://y
 
 You can find my Github Site here: [LincanLi](https://github.com/LincanLi98)
 
-**Email Contact**: ll24bb@fsu.edu.au<br>
+**Email Contact**: ll24bb@fsu.edu<br>
 
 **Background**
 ---
@@ -29,7 +29,7 @@ Bachelor @ Northeastern University
 
 -----
 
-Academic Internship/Visiting Experiences at World Leading Institutions
+Academic Internship/Exchange at World Leading Institutions
 ------
 <table>
   <tr>
