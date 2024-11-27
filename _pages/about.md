@@ -30,7 +30,7 @@ You can find my Github Site here: [LincanLi](https://github.com/LincanLi98)
 
 2024 Latest👍
 ======
-> (Nov 2024) Organize Committee of [FSU Student Seminar](https://cs-fsu.github.io/seminars.html). Welcome everyone to participate in our inspiring seminar! If you're currently affiliated with FSU and wish to give a talk at the seminar, please fill in the [Google Form](https://forms.gle/BFRowrbqWwcapGbt8). If you are outside FSU and wish to give a talk, please contact me at <a href="ll24bb@fsu.edu">this email</a> or Dr. Yushun Dong at <a href="yushun.dong@fsu.edu">this email</a>. Thank you.
+> (Nov 2024) Act as the Organization Committee of [FSU Student Seminar](https://cs-fsu.github.io/seminars.html). Welcome everyone to participate in our inspiring seminar! If you're currently affiliated with FSU and wish to give a talk at the seminar, please fill in the [Google Form](https://forms.gle/BFRowrbqWwcapGbt8). If you are outside FSU and wish to give a talk, please contact me at <a href="ll24bb@fsu.edu">this email</a> or Dr. Yushun Dong at <a href="yushun.dong@fsu.edu">this email</a>. Thank you.
 
 > (Oct/03/2024) Invited reviewer for AISTATS & ICASSP 2025. 
 
