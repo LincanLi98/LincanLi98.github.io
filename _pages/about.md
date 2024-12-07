@@ -1,49 +1,118 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Lincan Li's Personal Website"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
+
+Short Bio
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Hi everyone. I'm currently a PhD student at [Responsible AI (RAI) Lab](https://yushundong.github.io//students/), [Department of Computer Science](https://www.cs.fsu.edu/), Florida State University. I feel very much fortunate to be advised by Dr. [Yushun Dong](https://scholar.google.com/citations?user=_QUhuOMAAAAJ&hl=EN). My research interests include Spatial-Temporal Data Mining, Graph Neural Networks, AI+X, LLMs & Foundation Models. In general, I'm always highly interested in broad machine-learning fields, application of heterogeneous data mining, and AI+X technologies. 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+You can find my Github Site here: [LincanLi](https://github.com/LincanLi98)
+
+**Email Contact**: ll24bb@fsu.edu<br>
+
+**Background**
+---
+- Researcher at University of New South Wales (Nov 2023 - Dec 2024)
+- MPhil at Zhejiang University & Exchange Student at The University of Sydney
+- Bachelor at Northeastern University
+
+-----
+
+
+2024 Latest👍
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+> (Dec/06/2024) ✈️Touching down Orlando, FL. New journey starts here.
 
-Site-wide configuration
+> (Nov 2024) Act as the Organization Committee of [FSU Student Seminar](https://cs-fsu.github.io/seminars.html). Welcome everyone to participate in our inspiring seminar! If you're currently affiliated with FSU and wish to give a talk at the seminar, please fill in the [Google Form](https://forms.gle/BFRowrbqWwcapGbt8). If you are outside FSU and wish to give a talk, please contact me at <a href="ll24bb@fsu.edu">this email</a> or Dr. Yushun Dong at <a href="yushun.dong@fsu.edu">this email</a>. Thank you.
+
+> (Oct/03/2024) Invited reviewer for AISTATS & ICASSP 2025. 
+
+> (Sep/28/2024) Invited reviewer for ICRL 2025.
+
+> (Jun/20/2024) Invited reviewer for NeurIPS 2025.
+
+> (June/01/2024) A first-authored paper entitled "Di-GraphGAN: An Enhanced Adversarial Learning Framework for Accurate Spatial-Temporal Traffic Forecasting Under Data Missing Scenarios" is accepted by INFORMATION SCIENCES journal. 
+
+> (May/13/2024) Our new work leveraging Mamba, the latest deep learning-based selective state space model for Spatial-Temporal Graph Learning is now available.
+
+  **Paper**: [STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model](https://github.com/LincanLi98/STG-Mamba/blob/main/STG_Mamba_paper_ArXiv_V3_14May2024.pdf)
+  
+  **Code**: [https://github.com/LincanLi98/STG-Mamba/](https://github.com/LincanLi98/STG-Mamba/)
+  
+> (Jan/30/2024) Our New survey paper:[Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies](https://arxiv.org/abs/2401.12888) is available on ArXiV. It was reported by several major social media platforms, see the [<span style="color:darkred;">media report here</span>](https://mp.weixin.qq.com/s/YEjWSvKk6f-TDAR91Ow2rA).
+
+**Paper**: [Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies](https://arxiv.org/abs/2401.12888)
+
+**Code**: [https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving](https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving)
+
+
+
+Research Publications
+======
+1. **Lincan Li**, Hanchen Wang, Wenjie Zhang. "STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model". (Arxiv Preprint).
+2. **Lincan Li**, Jichao Bi, Kaixiang Yang, and Fengji Luo. "Di-GraphGAN: An Enhanced Adversarial Learning
+Framework for Accurate Spatial-Temporal Traffic Forecasting Under Data Missing Scenarios." Information Sciences, Accepted, pp. 1-18, 2024. (Journal Article, IF: 8.1, JCR Category Quartile: Q1)
+3. **Lincan Li**, Kaixiang Yang, Fengji Luo, and Jichao Bi. "STS-CCL: Spatial-Temporal Synchronous Contextual
+Contrastive Learning for Urban Traffic Forecasting." in the 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2024, CCF-B).
+4. **Lincan Li**, Jichao Bi, Kaixiang Yang, Fengji Luo and Lu-Xing Yang. "MGC-GAN: Multi-Graph Convolutional
+Generative Adverserial Networks for Accurate Citywide Traffic Flow Prediction," in the 52nd IEEE International
+Conference on Systems, Man, and Cybernetics (SMC 2022), pp. 2557-2562. [Oral]
+5. **Lincan Li**, Jichao Bi, Kaixiang Yang, and Fengji Luo, "Spatial-Temporal Semantic Generative Adversarial Networks for Flexible Multi-step Urban Flow Prediction," in 31st International Conference on Artificial Neural Networks (ICANN 2022). Springer-Verlag, pp.763–775.
+6. **Lincan Li**, Tong Jia. "Optical Coherence Tomography Vulnerable Plaque Segmentation based on Deep Residual U-Net." Reviews in Cardiovascular Medicine 20.3 (2019): 171-177. (Journal Article, IF: 4.43, JCR Quartile: Q2)
+
+
+Academic Awards & Competitions
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+1. **Excellent Master Dissertation Award (Top 1%)**, "Research on Integrated Urban Traffic Forecasting and Spatiotemporal Data Imputation based on GANs and Graph Representation".
+2. National Scholarship for Undergraduate Student. Awarded by Ministry of Education, Awarded in 2019 and 2020, respectively. (For Top 1% excellent students).
+4. Meritorious Winner (First Prize) of the International Interdisciplinary Contest In Mathematical Modeling (ICM). Awarded in April, 2019.
 
-Create content & metadata
+
+
+Academic Internship/Exchange at World Leading Institutions
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<table>
+  <tr>
+    <th>Internship Experience</th>
+    <th>Timeline</th>
+    <th>Region</th>
+  </tr>
+  <tr>
+    <td>Master Exchange Program at University of Sydney</td>
+    <td>Sep 2022 - Sep 2023</td>
+    <td>Sydney, Australia</td>
+  </tr>
+  <tr>
+    <td>International Exchange Student at University of Wisconsin-Madison</td>
+    <td>Jun 2019 - Sep 2019</td>
+    <td>U.S.A</td>
+  </tr>
+</table>
 
-**Markdown generator**
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+Academic Services
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+- I'm a long-term reviewer of AAAI/IJCAI/NeurlPS/KDD/ACM MM/ICRL and other top CORE A* conferences in the
+field of artificial intelligence and deep learning. I'm a graduate student member of ACM and IEEE Society.
+- Invited reviewer for IEEE Transactions on Knowledge and Data Engineering.
+- Invited reviewer for IEEE Transactions on Intelligent Vehicles.
+- Intived reviewer for IEEE Transactions on Industrial Informatics.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More. 
+------ 
+- Like other top-tier scholars in academia, I work hard, value time.
+- I embrace any kind of challenges in work and life with strong belief, and I always thank life for taking me here.
+- I enjoy various kinds of sports in my spare time. I've been practicing various kinds of sports since I was 16. I have successfully completed two marathon races. In Sydney and Hangzhou, respectively.
+- Love music (R&B, Pop, Hip-Hop, EDM, Afrobeat) and arts (Fashion design, Architecture design, Photography).
+
+
