@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "Tutor at University of New South Wales"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+date: 2024-03-01
+location: "Sydney, Australia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Natural Language Processing, undergraduate level course.
 
 Heading 1
 ======
 
 Heading 2
-======
-
-Heading 3
 ======
