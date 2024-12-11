@@ -86,7 +86,7 @@ author:
   location         : "Tallahassee FL, U.S."
   employer         : "PhD Student at FSU"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "#"
+  googlescholar    : "https://scholar.google.com/citations?user=2rsW8vgAAAAJ&hl=EN"
   email            : "ll24bb@fsu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/LincanLi98"
   google_plus      :
   keybase          :
   instagram        :
