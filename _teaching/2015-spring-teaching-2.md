@@ -1,13 +1,17 @@
+
 ---
-title: "Teaching Assistant at Florida State University"
-collection: Graduate Staff
-type: Teaching
-permalink: /teaching/2015-spring-teaching-1
-venue: "Florida State University, Department of Computer Science"
-date: 2025-01-06
-location: "Tallahassee, FL, U.S.A"
+
+title: "Tutor at University of New South Wales"
+collection: teaching
+type: "Undergraduate Course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University 1, Department"
+date: 2024-03-01
+
+location: "Sydney, Australia"
 ---
-Teaching Staff associated with <b>Pattern Recognition</b>, collaborated with Dr. Yushun Dong.
+
+Natural Language Processing, undergraduate level course.
 
 Heading 1
 ======
