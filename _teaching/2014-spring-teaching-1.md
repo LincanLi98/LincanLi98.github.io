@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Staff at Florida State University"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "FSU, Department of Computer Science"
+date: 2025-01-06
+location: "FL, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I'm a teaching assistant staff for Graduate Level course **Pattern Recognition** at CS FSU, collaborated with Dr. Yushun Dong.
 
 Heading 1
 ======
 
 Heading 2
-======
-
-Heading 3
 ======
