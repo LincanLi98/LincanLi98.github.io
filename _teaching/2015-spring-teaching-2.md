@@ -8,7 +8,7 @@ date: 2024-03-01
 location: "Sydney, Australia"
 ---
 
-I was a tutor teaching undergraduates at UNSW Sydney for the Natural Language Processing Class during 2024 T1 and T2.
+I was a tutor teaching undergraduates at UNSW Sydney for the **Natural Language Processing** Class during 2024 T1 and T2.
 
 Heading 1
 ======
