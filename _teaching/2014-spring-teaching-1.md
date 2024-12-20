@@ -29,24 +29,6 @@ Course Overview
 
 📘 This course will draw on materials from the textbook as well as key literature in pattern recognition and machine learning. You will study theoretical concepts, complete assignments, work on a course project, present your findings in class, and take a final exam. A solid understanding of probability theory and linear algebra is essential, along with strong programming skills for implementing algorithms in the course project.
 
-Textbook
-========
-
-Instructor of CAP 5638: Pattern Recognition - 2025 Spring
-Graduate course, Florida State University, 2024
-
-Administrivia
-📢 Instructor: Dr. Yushun Dong (yd24f[at]fsu[dot]edu)
-💡 Teaching Assistant: Lincan Li (ll24bb[at]fsu[dot]edu)
-📅 Time: Tuesday & Thursday, 4:50 pm-6:05 pm (ET)
-🏫 Location: Love Building 301
-🔍 Instructor Office Hours: Tuesday & Thursday, 6:05 to 7:05 PM at LOV 301.
-🔍 TA Office Hours: to be determined.
-🎒 Format: In-person only (unless there is a drastic change in the situation).
-Course Overview
-🚀 Welcome to the exciting world of pattern recognition, a field dedicated to discovering and interpreting patterns in data! In this course, we’ll dive into the fundamental techniques of pattern recognition, from feature extraction and dimensionality reduction to classification and clustering. You’ll learn how to design models that can recognize and categorize patterns, making sense of complex datasets in various applications such as image and speech recognition, bioinformatics, and computer vision.
-
-📘 This course will draw on materials from the textbook as well as key literature in pattern recognition and machine learning. You will study theoretical concepts, complete assignments, work on a course project, present your findings in class, and take a final exam. A solid understanding of probability theory and linear algebra is essential, along with strong programming skills for implementing algorithms in the course project.
 
 Textbook
 =========
@@ -77,7 +59,7 @@ Grading
 
 Please see a detailed introduction of **Project Proposal** and **Final Project Report & Presentation** [here](https://yushundong.github.io/files/Guidelines_student_proposal_writing.pdf).
 
-- 🎁 Extra Bonus: (1) Students are highly encouraged to prepare for submissions to <span style="color:#0099FF;">[major AI/ML/DM conferences](https://aideadlin.es)</span> based on their projects. Please be sure to make an appointment with the instructor prior to any submission plans to perform a comprehensive evaluation of the research topic. Each submission <u>under the instructor's recognition</u> will <span style="color:#999999;">gain 7 points on their final grades</span>; (2) Students are highly encouraged to provide feedback on the development of this course. At the end of this semester, <span style="color:#999999;">a feedback survey completion rate exceeding 70%</span> leads to an additional 7% for everyone's actual grade, i.e., your_final_grade = your_actual_grade * 107%‼️
+- 🎁 Extra Bonus: (1) Students are highly encouraged to prepare for submissions to <span style="color:#0099FF;">[major AI/ML/DM conferences](https://aideadlin.es)</span> based on their projects. Please be sure to make an appointment with the instructor prior to any submission plans to perform a comprehensive evaluation of the research topic. Each submission **under the instructor's recognition** will <span style="color:#999999;">gain 7 points on their final grades</span>; (2) Students are highly encouraged to provide feedback on the development of this course. At the end of this semester, <span style="color:#999999;">a feedback survey completion rate exceeding 70%</span> leads to an additional 7% for everyone's actual grade, i.e., your_final_grade = your_actual_grade * 107%‼️
 
 
   
