@@ -12,7 +12,7 @@ redirect_from:
 
 Short Bio
 ======
-Hi everyone. I'm currently a PhD student at [Responsible AI (RAI) Lab](https://yushundong.github.io//students/), [Department of Computer Science](https://www.cs.fsu.edu/), Florida State University. I feel very much fortunate to be advised by Dr. [Yushun Dong](https://scholar.google.com/citations?user=_QUhuOMAAAAJ&hl=EN). My research interests include Spatial-Temporal Data Mining, Graph Neural Networks, AI+X, LLMs & Foundation Models. In general, I'm always highly interested in broad machine-learning fields, application of heterogeneous data mining, and AI+X technologies. 
+Hi everyone. I'm currently a 1st year PhD student at [Responsible AI (RAI) Lab](https://yushundong.github.io//students/), [Department of Computer Science](https://www.cs.fsu.edu/), Florida State University. I feel very much fortunate to be advised by Dr. [Yushun Dong](https://scholar.google.com/citations?user=_QUhuOMAAAAJ&hl=EN). My research interests include Spatial-Temporal Data Mining, Graph Neural Networks, AI+X, LLMs & Foundation Models. In general, I'm always highly interested in broad machine-learning fields, application of heterogeneous data mining, and AI+X technologies. 
 
 
 You can find my Google Scholar here: [Lincan Li](https://scholar.google.com/citations?user=2rsW8vgAAAAJ&hl=EN)<br>
@@ -29,9 +29,11 @@ Github Site here: [Lincan Li](https://github.com/LincanLi98)
 -----
 
 
-2024 Latest👍
+Latest Events👍
 ======
-> (Dec/10/2024)🫶🫶 Our Latest "AI+X" Study--"**Political-LLM: Large Language Models in Political Science**", the <span style="color: #CC3333;">First & Systematic</span> Large Language Model's guidebook on Political Science Domain, collaborated with 30+ Top Universities and our industrial parterns from NVIDIA and Adobe, is now available online. It is again reported by several major medias, see the [Redbook media reports](http://xhslink.com/a/Jvt4Jpcr5aG1), [X posts](https://x.com/Yushun_Dong/status/1866689696828649679), [AI literature digest](https://www.aimodels.fyi/papers/arxiv/political-llm-large-language-models-political-science), and Wechat recommendation.
+> (Jan/06/2025) Excited to serve as Teaching Assistant for Department of Computer Science, FSU. 
+> (Dec/15/2024) Invited reviewer for ICML 2025 Conference.
+> (Dec/10/2024) Our Latest "AI+X" Study--"**Political-LLM: Large Language Models in Political Science**", the <span style="color: #CC3333;">First & Systematic</span> Large Language Model's guidebook on Political Science Domain, collaborated with 30+ Top Universities and our industrial parterns from NVIDIA and Adobe, is now available online. It is again reported by several major medias, see the [Redbook media reports](http://xhslink.com/a/Jvt4Jpcr5aG1), [X posts](https://x.com/Yushun_Dong/status/1866689696828649679), [AI literature digest](https://www.aimodels.fyi/papers/arxiv/political-llm-large-language-models-political-science), and Wechat recommendation.
 
 See Political-LLM paper here: [paper](https://arxiv.org/abs/2412.06864)
 
