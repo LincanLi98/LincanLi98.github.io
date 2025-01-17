@@ -31,8 +31,10 @@ Github Site here: [Lincan Li](https://github.com/LincanLi98)
 
 Latest Events👍
 ======
-> (Jan/06/2025) Excited to serve as Teaching Assistant for Department of Computer Science, FSU. 
+> (Jan/06/2025) Excited to serve as Teaching Assistant for Department of Computer Science, FSU.
+
 > (Dec/15/2024) Invited reviewer for ICML 2025 Conference.
+
 > (Dec/10/2024) Our Latest "AI+X" Study--"**Political-LLM: Large Language Models in Political Science**", the <span style="color: #CC3333;">First & Systematic</span> Large Language Model's guidebook on Political Science Domain, collaborated with 30+ Top Universities and our industrial parterns from NVIDIA and Adobe, is now available online. It is again reported by several major medias, see the [Redbook media reports](http://xhslink.com/a/Jvt4Jpcr5aG1), [X posts](https://x.com/Yushun_Dong/status/1866689696828649679), [AI literature digest](https://www.aimodels.fyi/papers/arxiv/political-llm-large-language-models-political-science), and Wechat recommendation.
 
 See Political-LLM paper here: [paper](https://arxiv.org/abs/2412.06864)
