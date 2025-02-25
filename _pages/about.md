@@ -31,6 +31,11 @@ Github Site here: [Lincan Li](https://github.com/LincanLi98)
 
 Latest Events👍
 ======
+> (Feb/24/2025) Our Latest work for a Systematic Review on **Model Extraction Attacks** entitled "A Survey of Model Extraction Attacks and Defenses in Distributed Computing Environments" is now available at ArXiv at [here](https://www.arxiv.org/abs/2502.16065). Exicited to collaborate with Prof. [Neil Gong](https://scholar.google.com/citations?user=t6uCsYoAAAAJ&hl=en) from Duke and [Kaixiang](https://www.linkedin.com/in/kaixiang-zhao/) from Notre Dame.
+
+😊If you find useful, considering cite our work: Kaixiang Zhao, Lincan Li, Kaize Ding, Neil Zhenqiang Gong, Yue Zhao and Yushun Dong*. "A Survey of Model Extraction Attacks and Defenses in Distributed Computing Environments." ArXiv Preprint/2502.16065: 1-9. [Paper](https://arxiv.org/abs/2502.16065)
+
+
 > (Jan/06/2025) Excited to serve as Teaching Assistant for Department of Computer Science, FSU.
 
 > (Dec/15/2024) Invited reviewer for ICML 2025 Conference.
@@ -67,18 +72,19 @@ See Political-LLM online resource library here: [website](http://political-llm.o
 
 
 
-Research Publications
+Research Publications (Chronological Order)
 ======
-1. **Lincan Li**, Hanchen Wang, Wenjie Zhang. "STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model". (Arxiv Preprint).
-2. **Lincan Li**, Jichao Bi, Kaixiang Yang, and Fengji Luo. "Di-GraphGAN: An Enhanced Adversarial Learning
+1. Kaixiang Zhao<sup>*</sup>, Lincan Li<sup>*</sup>, Kaize Ding, Neil Zhenqiang Gong, Yue Zhao and Yushun Dong. "A Survey of Model Extraction Attacks and Defenses in Distributed Computing Environments." ArXiv Preprint/2502.16065: 1-9. (<sup>*</sup>Equal Contribution)[Paper](https://arxiv.org/abs/2502.16065)
+2. **Lincan Li**, Hanchen Wang, Wenjie Zhang. "STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model". (Arxiv Preprint).
+3. **Lincan Li**, Jichao Bi, Kaixiang Yang, and Fengji Luo. "Di-GraphGAN: An Enhanced Adversarial Learning
 Framework for Accurate Spatial-Temporal Traffic Forecasting Under Data Missing Scenarios." Information Sciences, Accepted, pp. 1-18, 2024. (Journal Article, IF: 8.1, JCR Category Quartile: Q1)
-3. **Lincan Li**, Kaixiang Yang, Fengji Luo, and Jichao Bi. "STS-CCL: Spatial-Temporal Synchronous Contextual
+4. **Lincan Li**, Kaixiang Yang, Fengji Luo, and Jichao Bi. "STS-CCL: Spatial-Temporal Synchronous Contextual
 Contrastive Learning for Urban Traffic Forecasting." in the 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2024, CCF-B).
-4. **Lincan Li**, Jichao Bi, Kaixiang Yang, Fengji Luo and Lu-Xing Yang. "MGC-GAN: Multi-Graph Convolutional
+5. **Lincan Li**, Jichao Bi, Kaixiang Yang, Fengji Luo and Lu-Xing Yang. "MGC-GAN: Multi-Graph Convolutional
 Generative Adverserial Networks for Accurate Citywide Traffic Flow Prediction," in the 52nd IEEE International
 Conference on Systems, Man, and Cybernetics (SMC 2022), pp. 2557-2562. [Oral]
-5. **Lincan Li**, Jichao Bi, Kaixiang Yang, and Fengji Luo, "Spatial-Temporal Semantic Generative Adversarial Networks for Flexible Multi-step Urban Flow Prediction," in 31st International Conference on Artificial Neural Networks (ICANN 2022). Springer-Verlag, pp.763–775.
-6. **Lincan Li**, Tong Jia. "Optical Coherence Tomography Vulnerable Plaque Segmentation based on Deep Residual U-Net." Reviews in Cardiovascular Medicine 20.3 (2019): 171-177. (Journal Article, IF: 4.43, JCR Quartile: Q2)
+6. **Lincan Li**, Jichao Bi, Kaixiang Yang, and Fengji Luo, "Spatial-Temporal Semantic Generative Adversarial Networks for Flexible Multi-step Urban Flow Prediction," in 31st International Conference on Artificial Neural Networks (ICANN 2022). Springer-Verlag, pp.763–775.
+7. **Lincan Li**, Tong Jia. "Optical Coherence Tomography Vulnerable Plaque Segmentation based on Deep Residual U-Net." Reviews in Cardiovascular Medicine 20.3 (2019): 171-177. (Journal Article, IF: 4.43, JCR Quartile: Q2)
 
 
 Academic Awards & Competitions
