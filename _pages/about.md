@@ -136,4 +136,6 @@ More.
 
 ![Thank you for visiting my website](https://komarev.com/ghpvc/?username=LincanLi98&color=blue)
 
-<img src="https://github.com/LincanLi98/LincanLi98.github.io/blob/master/images/website_end_banner.png" alt="website_end_banner" style="height: 200px; width: 862px;">
+<img src="https://raw.githubusercontent.com/LincanLi98/LincanLi98.github.io/master/images/website_end_banner.png" 
+alt="website_end_banner" style="height: 200px; width: 862px;">
+
