@@ -133,7 +133,7 @@ More.
 - Love music (R&B, Pop, Hip-Hop, EDM, Afrobeat) and arts (Fashion design, Architecture design, Photography).
 
 
+
 ![Thank you for visiting my website](https://komarev.com/ghpvc/?username=LincanLi98&color=blue)
 
-![Thank you for visiting my website](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://lincanli.com)
 
