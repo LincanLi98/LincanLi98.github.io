@@ -133,5 +133,7 @@ More.
 - Love music (R&B, Pop, Hip-Hop, EDM, Afrobeat) and arts (Fashion design, Architecture design, Photography).
 
 
-[![Amazing Visitor Badge](https://visitcount.itsvg.in/api?id=LincanLi98&icon=0&color=0)](https://visitcount.itsvg.in)
+![Thank you for visiting my website](https://komarev.com/ghpvc/?username=LincanLi98&color=blue)
+
+![Thank you for visiting my website](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://lincanli.com)
 
