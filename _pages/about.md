@@ -118,7 +118,7 @@ Academic Internship/Exchange at World Leading Institutions
 
 Academic Services
 ------
-- I'm a long-term reviewer of AAAI/IJCAI/NeurlPS/KDD/ACM MM/ICRL and other top CORE A* conferences in the
+- I'm a long-term reviewer of AAAI/IJCAI/NeurlPS/KDD/ICML/ACM MM/ICRL and other top CORE A* conferences in the
 field of artificial intelligence and deep learning. I'm a graduate student member of ACM and IEEE Society.
 - Invited reviewer for IEEE Transactions on Knowledge and Data Engineering.
 - Invited reviewer for IEEE Transactions on Intelligent Vehicles.
@@ -132,4 +132,6 @@ More.
 - I enjoy various kinds of sports in my spare time. I've been practicing various kinds of sports since I was 16. I have successfully completed two marathon races. In Sydney and Hangzhou, respectively.
 - Love music (R&B, Pop, Hip-Hop, EDM, Afrobeat) and arts (Fashion design, Architecture design, Photography).
 
+
+[![Amazing Visitor Badge](https://visitcount.itsvg.in/api?id=LincanLi98&icon=0&color=0)](https://visitcount.itsvg.in)
 
