@@ -12,19 +12,20 @@ redirect_from:
 
 Short Bio
 ======
-Hi everyone. I'm currently a 1st year PhD student at [Responsible AI (RAI) Lab](https://yushundong.github.io//students/), [Department of Computer Science](https://www.cs.fsu.edu/), Florida State University. I feel very much fortunate to be advised by Dr. [Yushun Dong](https://scholar.google.com/citations?user=_QUhuOMAAAAJ&hl=EN). My research interests include Spatial-Temporal Data Mining, Graph Neural Networks, AI+X, LLMs & Foundation Models. In general, I'm always highly interested in broad machine-learning fields, application of heterogeneous data mining, and AI+X technologies. 
-
-
-You can find my Google Scholar here: [Lincan Li](https://scholar.google.com/citations?user=2rsW8vgAAAAJ&hl=EN)<br>
-Github Site here: [Lincan Li](https://github.com/LincanLi98)
+Hi everyone. I'm currently a 1st year PhD student at [Responsible AI (RAI) Lab](https://yushundong.github.io//students/), [Department of Computer Science](https://www.cs.fsu.edu/), Florida State University. I feel very much fortunate to be advised by Dr. [Yushun Dong](https://scholar.google.com/citations?user=_QUhuOMAAAAJ&hl=EN). My research interests include Spatial-Temporal Data Mining, Graph Neural Networks, AI+X, LLMs & Foundation Models. In general, I'm always highly interested in broad machine-learning fields, application of heterogeneous data mining, and AI+X technologies. You can find my <span style="color:blue">Google Scholar</span> here: [Lincan Li](https://scholar.google.com/citations?user=2rsW8vgAAAAJ&hl=EN). <span style="color:blue">Github Site</span> here: [Lincan Li](https://github.com/LincanLi98)
 
 **Email Contact**: ll24bb@fsu.edu<br>
 
 **Background**
----
+-----
 - Researcher at University of New South Wales (Nov 2023 - Dec 2024)
 - MPhil at Zhejiang University & Exchange Student at The University of Sydney
 - Bachelor at Northeastern University
+
+
+Research Highlights
+======
+
 
 -----
 
