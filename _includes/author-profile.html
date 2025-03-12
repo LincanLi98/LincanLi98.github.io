@@ -155,8 +155,12 @@
       {% endif %}
       {% if author.bilibili %}
         <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
-        <li><a href="https://space.bilibili.com/{{author.bilibili}}"><span class="ant-design--bilibili-filled"></span> Bilibili </a></li>
-      {% endif %}   
+        <li><a href="https://space.bilibili.com/{{author.bilibili}}"><span class="iconify" data-icon="simple-icons:bilibili" data-inline="false"></span> Bilibili </a></li>
+      {% endif %}
+      {% if author.rednote %}
+        <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
+        <li><a href="https://www.xiaohongshu.com/user/profile/{{1182670847}}"><span class="iconify" data-icon="arcticons--xiaohongshu-rednote" data-inline="false"></span> RedNote </a></li>
+      {% endif %} 
     </ul>
   </div>
 </div>
