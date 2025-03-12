@@ -153,9 +153,10 @@
       {% if author.youtube %}
         <li><a href="https://www.youtube.com/@{{ author.youtube }}"><i class="fab fa-fw fa-youtube icon-pad-right" aria-hidden="true"></i>YouTube</a></li>
       {% endif %}
-      {% if author.zhihu %}
-      <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
-      {% endif %}      
+      {% if author.bilibili %}
+        <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
+        <li><a href="https://space.bilibili.com/{{author.bilibili}}"><span class="iconify" data-icon="simple-icons:bilibili" data-inline="false"></span> Bilibili </a></li>
+      {% endif %}   
     </ul>
   </div>
 </div>
