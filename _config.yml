@@ -85,7 +85,7 @@ author:
   bio              : "Motivational & Persistent"
   location         : "Tallahassee FL, U.S."
   employer         : "PhD Student at FSU"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=2rsW8vgAAAAJ&hl=EN"
   email            : "ll24bb@fsu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,20 +102,21 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "lincan-li-482635324"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "Kelsey_LincanLi"
+  orcid            : "http://orcid.org/yourorcidurl"  
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-
+  Rednote          : "https://www.xiaohongshu.com/user/profile/602a6361000000000101cf84?xsec_token=YBJEN0PRHyS_oMl9eCjDH8Q2cAhHJI6Gthjrv0RBZYuAM=&xsec_source=app_share&xhsshare=CopyLink&appuid=602a6361000000000101cf84&apptime=1741766525&share_id=824209eb2305431fa4809b513316c16c"
+  Bilibili         : "https://b23.tv/YBfRDIQ"
 
 # Reading Files
 include:
