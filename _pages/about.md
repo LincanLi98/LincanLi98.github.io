@@ -23,15 +23,10 @@ Hi everyone. I'm currently a 1st year PhD student at [Responsible AI (RAI) Lab](
 - Bachelor at Northeastern University
 
 
-Research Highlights
+Research Highlights👍
 ======
+> I will be the **lead presenter** for our KDD 2025 tutorial entitled: <a href="https://labrai.github.io/KDD2025_Tutorial/" target="_blank">"Model Extraction Attack and Defenses for Large Language Models: Recent Advances, Challenges, and Future Prospectives"</a>. Stay tuned for the updates of our online website and resources. 
 
-
------
-
-
-Latest Events👍
-======
 > 🎉🎉(May/18/2025) Our Latest work entitled:<span style="color:blue">"A Survey on Model Extraction Attack and Defenses for Large Language Models"</span> is accepted by <span style="color:red">KDD 2025 conference</span>. The online paper and material **will be available soon**. I will attend the conference in Toronto.
 
 > (Feb/24/2025) Our work for a Systematic Review on <span style="color:red">Model Extraction Attacks</span> entitled "A Survey of Model Extraction Attacks and Defenses in Distributed Computing Environments" is now available at ArXiv at [here](https://www.arxiv.org/abs/2502.16065). Exicited to collaborate with Prof. [Neil Gong](https://scholar.google.com/citations?user=t6uCsYoAAAAJ&hl=en) from Duke and [Kaixiang](https://www.linkedin.com/in/kaixiang-zhao/) from Notre Dame.
