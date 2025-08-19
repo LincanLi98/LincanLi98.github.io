@@ -25,7 +25,7 @@ Hi everyone. I'm currently a 1st year PhD student at [Responsible AI (RAI) Lab](
 
 Research Highlights👍
 ======
-> 🎉🎉(Aug/04/2025) My first-authored research paper is accepted by <span style="color:red">SIGSPATIAL 2025</span>. **Lincan Li**, Eren Erman Ozguven, Yue Zhao, Guang Wang, Yiqun Xie, Yushun Dong, <span style="color:blue">"TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting"</span>. [Preprint version](https://arxiv.org/abs/2506.17609) [Code](https://github.com/LabRAI/TyphoFormer/).
+> 🎉🎉(Aug/04/2025) My first-authored research paper is accepted by <span style="color:red">SIGSPATIAL 2025</span>. **Lincan Li**, Eren Erman Ozguven, Yue Zhao, Guang Wang, Yiqun Xie, Yushun Dong, <span style="color:blue">"TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting"</span>. [[Preprint version](https://arxiv.org/abs/2506.17609)] [[Code](https://github.com/LabRAI/TyphoFormer/)].
 
 > I will be the **lead presenter** for our KDD 2025 tutorial entitled: <a href="https://labrai.github.io/KDD2025_Tutorial/" target="_blank">"Model Extraction Attack and Defenses for Large Language Models: Recent Advances, Challenges, and Future Prospectives"</a>. See our tutorial website at [here](https://labrai.github.io/KDD2025_Tutorial/), and our full tutorial slides at [here](https://labrai.github.io/KDD2025_Tutorial/files/MEA_LLM_KDD_Tutorial_Slides.pdf).
 
