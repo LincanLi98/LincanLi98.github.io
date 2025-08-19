@@ -2,7 +2,7 @@
 title: "Tutor at University of New South Wales"
 collection: NLP Tutor for undergraduates at UNSW Sydney
 type: "Lectures and Workshops"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2024-teaching-2
 venue: "UNSW, School of Computer Science and Engineering"
 date: 2024-03-01
 location: "Sydney, Australia"
