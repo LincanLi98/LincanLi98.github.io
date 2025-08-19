@@ -8,7 +8,7 @@ date: 2025-01-06
 location: "FL, USA"
 ---
 
-I'm a teaching assistant staff for Graduate Level course <span style="color:#0099FF;">CAP 5638: Pattern Recognition</span> at CS FSU, collaborated with Dr. Yushun Dong.
+(2025 Spring) I'm a teaching assistant staff for Graduate Level course <span style="color:#0099FF;">CAP 5638: Pattern Recognition</span> at CS FSU, collaborated with Dr. Yushun Dong.
 
 Administrivia
 ======
