@@ -9,7 +9,7 @@ location: "FL, USA"
 
 ---
 
-I'm a teaching assistant staff for undergraduate course **CGS3465-0001.su25** at CS FSU, collaborated with Prof. James Lamm.
+(2025 Summer) I'm a teaching assistant staff for undergraduate course **CGS3465-0001.su25**--Introduction to Programming Using Python, collaborated with Prof. James Lamm.
 
 Administrivia
 ======
