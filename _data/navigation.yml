@@ -20,8 +20,11 @@ main:
 #  - title: "CV"
 #    url: /cv/
 
-  - title: "KDD Tutorial 2025"  
+  - title: "KDD25' Tutorial"  
     url: https://labrai.github.io/KDD2025_Tutorial/
+
+  - title: "FSU CS Student Seminar"  
+    url: https://www.cs.fsu.edu/seminars/
 
   - title: "Personal"
     url: /markdown/
