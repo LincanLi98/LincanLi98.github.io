@@ -11,9 +11,9 @@ redirect_from:
   <span>Outside of work, I maintain an active lifestyle, practicing running, Pilates, boxing, and general fitness training.</span>
 </div>
 
-<div style="overflow-x: auto; white-space: nowrap;">
-  <img src="/images/fitness_01.png" alt="fitness1" height="200" style="display:inline-block;">
-  <img src="/images/fitness_02.png" alt="fitness2" height="160" style="display:inline-block;">
+<div style="display:flex; justify-content:center; gap:10px;">
+  <img src="/images/fitness_01.png" alt="fitness1" style="height:200px;">
+  <img src="/images/fitness_02.png" alt="fitness1" style="height:200px;">
 </div>
 
 
@@ -30,7 +30,7 @@ redirect_from:
 
 
 <p align="center">
-  <img src="/images/my_cats.png" alt="My photo" width="400">
+  <img src="/images/my_cats.png" alt="My photo" width="420">
 </p>
 
 
