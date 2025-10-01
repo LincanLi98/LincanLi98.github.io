@@ -19,6 +19,9 @@ main:
     
 #  - title: "CV"
 #    url: /cv/
-    
+
+  - title: "KDD Tutorial 2025"  
+    url: https://labrai.github.io/KDD2025_Tutorial/
+
   - title: "Personal"
     url: /markdown/
