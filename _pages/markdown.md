@@ -30,7 +30,7 @@ redirect_from:
 
 
 <p align="center">
-  <img src="/images/my_cats.png" alt="My photo" width="420">
+  <img src="/images/my_cats.png" alt="My photo" width="410">
 </p>
 
 
