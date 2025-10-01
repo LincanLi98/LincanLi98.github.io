@@ -12,8 +12,8 @@ redirect_from:
 </div>
 
 <div style="overflow-x: auto; white-space: nowrap;">
-  <img src="/images/fitness_01.png" alt="fitness1" height="320" style="display:inline-block;">
-  <img src="/images/fitness_02.png" alt="fitness2" height="320" style="display:inline-block;">
+  <img src="/images/fitness_01.png" alt="fitness1" height="200" style="display:inline-block;">
+  <img src="/images/fitness_02.png" alt="fitness2" height="160" style="display:inline-block;">
 </div>
 
 
