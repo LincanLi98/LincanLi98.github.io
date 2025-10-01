@@ -6,6 +6,11 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+<div style="display:flex; align-items:center; background:#f1f8e9; border-left:5px solid #8bc34a; padding:15px; border-radius:8px; gap:10px;">
+  <span style="font-size:24px;">🏃‍♂️</span>
+  <span>Outside of work, I maintain an active lifestyle, practicing running, Pilates, boxing, and general fitness training.</span>
+</div>
+
 
 > Outside of work, I maintain an active lifestyle, practicing running, Pilates, boxing, and general fitness training.
 
@@ -15,8 +20,8 @@ redirect_from:
 
 > I adopted two stray cats in 2025 🐈 🐈. They greet me every time I back home.
 
-<p align="center">
-  <img src="/images/my_cats.png" alt="My photo" width="360">
+<p align="left">
+  <img src="/images/my_cats.png" alt="My photo" width="400">
 </p>
 
 
