@@ -12,8 +12,8 @@ redirect_from:
 </div>
 
 <div style="display:flex; justify-content:center; gap:10px;">
-  <img src="/images/fitness_01.png" alt="fitness1" style="height:200px;">
-  <img src="/images/fitness_02.png" alt="fitness1" style="height:200px;">
+  <img src="/images/fitness_01.png" alt="fitness1" style="height:270px;">
+  <img src="/images/fitness_02.png" alt="fitness1" style="height:270px;">
 </div>
 
 
