@@ -13,8 +13,11 @@ redirect_from:
 > I have lived in Hangzhou, Shenzhen, Sydney (Austrlia) before came to Florida. Every place left me memories and valuable experiences about work and life.
 
 
-> I adopted two homeless cats in 2025 🐈🐈. They welcome me everytime I come back home.
+> I adopted two stray cats in 2025 🐈 🐈. They greet me every time I back home.
 
+<p align="center">
+  <img src="/images/my_cats.png" alt="My photo" width="360">
+</p>
 
 
 
