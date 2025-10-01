@@ -16,6 +16,7 @@ redirect_from:
   <img src="/images/fitness_02.png" alt="fitness1" style="height:270px;">
 </div>
 
+<div style="height:30px;"></div>
 
 <div style="display:flex; align-items:center; background:#e3f2fd; border-left:5px solid #2196f3; padding:15px; border-radius:8px; gap:10px; margin-bottom:40px;">
   <span style="font-size:24px;">🏙️</span>
@@ -35,8 +36,7 @@ redirect_from:
 
 
 
-***
-**Footnotes**
+<!--**Footnotes**-->
 
-The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
+<!--The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>-->
 
