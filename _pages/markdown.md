@@ -8,7 +8,7 @@ redirect_from:
 ---
 <div style="display:flex; align-items:center; background:#f1f8e9; border-left:5px solid #8bc34a; padding:15px; border-radius:8px; gap:10px; margin-bottom:40px;">
   <span style="font-size:24px;">🏃‍♂️</span>
-  <span>Outside of work, I maintain an active lifestyle, practicing running, Pilates, boxing, and general fitness training.</span>
+  <span>Outside of work, I maintain an active lifestyle, practicing trail running, Pilates, general fitness training, and dancing.</span>
 </div>
 
 <div style="display:flex; justify-content:center; gap:10px;">
