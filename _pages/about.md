@@ -25,6 +25,8 @@ Hi everyone. I'm currently a 1st year PhD student at [Responsible AI (RAI) Lab](
 
 Research Highlights👍
 ======
+> (Oct/25/2025) Our paper titled: "LLM-Empowered Patient-Provider Communication: A Data-Centric Survey From a Clinical Perspective" is accepted by <span style="color:red">AACL 2025</span>. Ruosi Shao, Md Shamim Seraj, Kangyi Zhao, Yingtao Luo, **Lincan Li**, Bolin Shen, Averi Bates, Yue Zhao, Chongle Pan, Lisa Hightow-Weidman, Shayok Chakraborty, Yushun Dong."*LLM-Empowered patient-provider communication: A data-centric survey from a clinical perspective.* In Findings of the IJCNLP-AACL 2025.
+
 > (Oct/08/2025) 👍 I received ACM SIGSPATIAL'25 NSF Travel Award out of 130+ applicants.
 
 > 🎉🎉(Aug/04/2025) My first-authored research paper is accepted by <span style="color:red">SIGSPATIAL 2025</span>. **Lincan Li**, Eren Erman Ozguven, Yue Zhao, Guang Wang, Yiqun Xie, Yushun Dong, <span style="color:blue">"TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting"</span>. [[Preprint version](https://arxiv.org/abs/2506.17609)] [[Code](https://github.com/LabRAI/TyphoFormer/)].
