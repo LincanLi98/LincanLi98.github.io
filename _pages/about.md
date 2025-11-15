@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my Personal Website"
+title: "Lincan Li Personal Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
