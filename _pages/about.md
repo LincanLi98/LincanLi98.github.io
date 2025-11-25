@@ -24,8 +24,9 @@ Hi everyone. I'm a 1st year PhD student at [Responsible AI (RAI) Lab](https://yu
 
 Research Highlights👍
 ======
+> Our paper "PEANuT: Parameter-Efficient Adaptation with Weight-aware Neural Tweakers" is accepted by **KDD 2026**. Thank you and congradulations!
 > ### (Nov/05/2025) 🏆 My first-authored paper "Typhoformer" received:
-> <span style="color:orange">SIGSPATIAL 2025 Best Short Paper Award!</span> Thanks to everyone!
+> <span style="color:orange">SIGSPATIAL 2025 Best Short Paper Award!</span>
 
 > (Oct/25/2025) Our paper titled: "LLM-Empowered Patient-Provider Communication: A Data-Centric Survey From a Clinical Perspective" is accepted by <span style="color:red">AACL 2025</span>. Ruosi Shao, Md Shamim Seraj, Kangyi Zhao, Yingtao Luo, **Lincan Li**, Bolin Shen, Averi Bates, Yue Zhao, Chongle Pan, Lisa Hightow-Weidman, Shayok Chakraborty, Yushun Dong."<span style="color:blue">LLM-Empowered patient-provider communication: A data-centric survey from a clinical perspective.</span> In Findings of the IJCNLP-AACL 2025.
 
