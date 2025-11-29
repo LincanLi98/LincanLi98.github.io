@@ -24,7 +24,7 @@ Hi everyone. I'm a 1st year PhD student at [Responsible AI (RAI) Lab](https://yu
 
 Research Highlights👍
 ======
-> (Nov/23/2025) Our paper titled <span style="color:blue">"PEANuT: Parameter-Efficient Adaptation with Weight-aware Neural Tweakers"</span> is accepted by **KDD 2026**. Thank you and congratulations!
+> (Nov/23/2025) Our paper titled <span style="color:blue">"[PEANuT: Parameter-Efficient Adaptation with Weight-aware Neural Tweakers](https://arxiv.org/html/2410.01870v3)"</span> is accepted by **KDD 2026**. Thank you and congratulations!
 
 > ### (Nov/05/2025) 🏆 My first-authored paper "Typhoformer" received:
 > <span style="color:orange">SIGSPATIAL 2025 Best Short Paper Award!</span>
