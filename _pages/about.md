@@ -82,25 +82,25 @@ See Political-LLM online resource library here: [website](http://political-llm.o
 
 Research Publications (Chronological Order)
 ======
-1. Kaixiang Zhao<sup>*</sup>, Lincan Li<sup>*</sup>, Kaize Ding, Neil Zhenqiang Gong, Yue Zhao and Yushun Dong. "A Survey of Model Extraction Attacks and Defenses in Distributed Computing Environments." ArXiv Preprint/2502.16065: 1-9. (<sup>*</sup>Equal Contribution)[Paper](https://arxiv.org/abs/2502.16065)
-2. **Lincan Li**, Hanchen Wang, Wenjie Zhang. "STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model". (Arxiv Preprint).
-3. **Lincan Li**, Jichao Bi, Kaixiang Yang, and Fengji Luo. "Di-GraphGAN: An Enhanced Adversarial Learning
-Framework for Accurate Spatial-Temporal Traffic Forecasting Under Data Missing Scenarios." Information Sciences, Accepted, pp. 1-18, 2024. (Journal Article, IF: 8.1, JCR Category Quartile: Q1)
-4. **Lincan Li**, Kaixiang Yang, Fengji Luo, and Jichao Bi. "STS-CCL: Spatial-Temporal Synchronous Contextual
-Contrastive Learning for Urban Traffic Forecasting." in the 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2024, CCF-B).
-5. **Lincan Li**, Jichao Bi, Kaixiang Yang, Fengji Luo and Lu-Xing Yang. "MGC-GAN: Multi-Graph Convolutional
-Generative Adverserial Networks for Accurate Citywide Traffic Flow Prediction," in the 52nd IEEE International
-Conference on Systems, Man, and Cybernetics (SMC 2022), pp. 2557-2562. [Oral]
-6. **Lincan Li**, Jichao Bi, Kaixiang Yang, and Fengji Luo, "Spatial-Temporal Semantic Generative Adversarial Networks for Flexible Multi-step Urban Flow Prediction," in 31st International Conference on Artificial Neural Networks (ICANN 2022). Springer-Verlag, pp.763–775.
-7. **Lincan Li**, Tong Jia. "Optical Coherence Tomography Vulnerable Plaque Segmentation based on Deep Residual U-Net." Reviews in Cardiovascular Medicine 20.3 (2019): 171-177. (Journal Article, IF: 4.43, JCR Quartile: Q2)
+1. (🏆SIGSPATIAL '25 Best Short Paper Award.) **Lincan Li**, Eren Erman Ozguven, Yue Zhao, Guang Wang, Yiqun Xie, Yushun Dong. "TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting." In 33rd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems.
+2. Yibo Zhong, Haoxiang Jiang, **Lincan Li**, Ryumei Nakada, Tianci Liu, Linjun Zhang, Huaxiu Yao, Haoyu Wang. "PEANuT: Parameter-Efficient Adaption with Weight-aware Neural Tweakers." In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026, Just Accepted)
+3. Kaixiang Zhao*, Lincan Li*, Kaize Ding, Neil Zhengqiang Gong, Yue Zhao, Yushun Dong: "A Survey on Model Extraction Attacks and Defenses for Large Language Models", In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025) (*Co-First Author).
+4. Ruosi Shao, Md Shamim Seraj, Kangyi Zhao, Yingtao Luo, **Lincan Li**, Bolin Shen, Averi Bates, Yue Zhao, Chongle Pan, Lisa Hightow-Weidman, Shayok Chakraborty, Yushun Dong. "LLM-Empowered patient-provider communication: A data-centric survey from a clinical perspective." In Findings of the IJCNLP-AACL 2025.
+5. **Lincan Li**, Jiaqi Li, Catherine Chen, Fred Gui, ......, Liang Zhao, Emilio Ferrara, Yan Liu, Furong Huang, Xiangliang Zhang, Heng Ji, Lawrence Rothenberg, Shuiwang Ji, Philip S. Yu, Yue Zhao, and Yushun Dong: "Political-llm: Large language models in political science." arXiv preprint arXiv:2412.06864 (2024).
+6. **Lincan Li**, Jichao Bi, Kaixiang Yang, and Fengji Luo. "Di-GraphGAN: An Enhanced Adversarial Learning Framework for Accurate Spatial-Temporal Traffic Forecasting Under Data Missing Scenarios." Information Sciences, Accepted, pp. 1-18, 2024. (Journal Article, JCR Category Quartile: Q1)
+7. **Lincan Li**, Kaixiang Yang, Fengji Luo, and Jichao Bi. "STS-CCL: Spatial-Temporal Synchronous Contextual Contrastive Learning for Urban Traffic Forecasting." in 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2024).
+8. (Survey) **Lincan Li**, Wei Shao, Wei Dong, Yijun Tian, Qiming Zhang, Kaixiang Yang, Wenjie Zhang. "Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies", ArXiv Preprint: https://arxiv.org/abs/2401.12888.
+9. **Lincan Li**, Jichao Bi, Kaixiang Yang, Fengji Luo and Lu-Xing Yang. "MGC-GAN: Multi-Graph Convolutional Generative Adverserial Networks for Accurate Citywide Traffic Flow Prediction," in the 52nd IEEE International Conference on Systems, Man, and Cybernetics (SMC 2022), pp. 2557-2562. 
+10. **Lincan Li**, Jichao Bi, Kaixiang Yang, and Fengji Luo, "Spatial-Temporal Semantic Generative Adversarial Networks for Flexible Multi-step Urban Flow Prediction." in 31st International Conference on Artificial Neural Networks (ICANN 2022). Springer-Verlag, pp.763–775.
 
 
+<!--
 Academic Awards & Competitions
 ------
 1. **Excellent Master Dissertation Award (Top 1%)**, "Research on Integrated Urban Traffic Forecasting and Spatiotemporal Data Imputation based on GANs and Graph Representation".
 2. National Scholarship for Undergraduate Student. Awarded by Ministry of Education, Awarded in 2019 and 2020, respectively. (For Top 1% excellent students).
-4. Meritorious Winner (First Prize) of the International Interdisciplinary Contest In Mathematical Modeling (ICM). Awarded in April, 2019.
-
+3. Meritorious Winner (First Prize) of the International Interdisciplinary Contest In Mathematical Modeling (ICM). Awarded in April, 2019.
+!-->
 
 
 Academic Internship/Exchange at World Leading Institutions
